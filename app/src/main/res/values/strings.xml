@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Photo Rater</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="textview_main">Galeri ITS</string>
+
+    <color name="hitam">#000</color>
+    <color name="putih">#FFF</color>
+
+</resources>
